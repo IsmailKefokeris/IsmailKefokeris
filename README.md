@@ -1,6 +1,9 @@
 <h1 align="center">Welcome!</h1>
 <br>
-<h3> I am Ismail a 22 Year Old Software Engineer </h3>
+<p align="center"> My name is Ismail I am a 22 Year Old Software Engineer who is ambitious and has the drive to learn new things. 
+    No matter what I do I will put my all into it until it is done or understood. This can be seen from all
+    the previous experience listed above where many mistakes were made but valuable lessons were learnt.
+</p>
 <br>
 
 <h1 align="center">About Me!</h1>
