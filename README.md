@@ -21,22 +21,23 @@
 </div>
 <br>
 <br>
+<br>
+<br>
 <h1 align="center">Skills!</h1>
 
 <div style="display:flex; justify-content: space-evenly; ">
-    <img src="python.png" alt="python" width="70" hight="70">
-    <img src="nodejs.png" alt="python" width="70" hight="70">
-    <img src="html-5.png" alt="python" width="70" hight="70">
-    <img src="css-3.png" alt="python" width="70" hight="70">
-    <img src="js.png" alt="python" width="70" hight="70">
+    <p align="center">
+        <img src="python.png" alt="python" width="70" hight="70">
+        <img src="nodejs.png" alt="nodejs" width="70" hight="70">
+        <img src="html-5.png" alt="html5" width="70" hight="70">
+        <img src="css-3.png" alt="CSS" width="70" hight="70">
+        <img src="js.png" alt="JavaScript" width="70" hight="70">
+    </p>
 </div>
-<a style="display:flex; justify-content:center;" href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">All icons created by Freepik - Flaticon</a>
 
-<div style="display:flex; justify-content:center;">
+<p align="center"><a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">All icons created by Freepik - Flaticon</a></p>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ismailkefokeris&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-</div>
 
 <h1 align="center">Contact Info!</h1>
 <div>
