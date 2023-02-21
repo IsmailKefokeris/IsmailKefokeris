@@ -40,7 +40,8 @@
 
 <p align="center"><a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">All icons created by Freepik - Flaticon</a></p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ismailkefokeris&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ismailkefokeris&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#dark#gh-dark-mode-only)
+![Languages Card](<https://github-readme-stats.vercel.app/api/top-langs/?username=ismailkefokeris&theme=dark#gh-dark-mode-only&layout=compact&custom_title=Top Languages by lines of code>)
 
 <h1 align="center">Contact Info!</h1>
 <div>
