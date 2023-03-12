@@ -14,7 +14,6 @@
 <div>
     <li><b>Name: </b> Ismail Kefokeris</li>
     <li><b>Studying: </b> 👨🏻‍💻 Bsc Software Engineering (Final Year)</li>
-    <li><b>Gender: </b> 🥷🏿 Male </li>
     <li><b>Hobbies: </b></li>
     <ul>
         <li>🧗‍♂️  Rock Climbing</li>
