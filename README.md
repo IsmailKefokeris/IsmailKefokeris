@@ -13,7 +13,7 @@
 <br>
 <div>
     <li><b>Name: </b> Ismail Kefokeris</li>
-    <li><b>Studying: </b> 👨🏻‍💻 Bsc Software Engineering (Final Year)</li>
+    <li><b>Qualifications: </b> 👨🏻‍💻 Bsc Software Engineering Graduate </li>
     <li><b>Hobbies: </b></li>
     <ul>
         <li>🧗‍♂️  Rock Climbing</li>
