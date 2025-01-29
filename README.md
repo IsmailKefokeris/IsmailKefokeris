@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 <br>
-<p align="center"> My name is Ismail I am a 22 Year Old Software Engineer who is ambitious and has the drive to learn new things. 
+<p align="center"> My name is Ismail I am a 24 Year Old Software Engineer who is ambitious and has the drive to learn new things. 
     No matter what I do I will put my all into it until it is done or understood. This can be seen from all
     the previous experiences listed above where many mistakes were made but valuable lessons were learnt.
 </p>
@@ -13,7 +13,8 @@
 <br>
 <div>
     <li><b>Name: </b> Ismail Kefokeris</li>
-    <li><b>Qualifications: </b> 👨🏻‍💻 Bsc Software Engineering Graduate </li>
+    <li><b>Job: </b> 👨🏻‍💻 Graduate Software Engineer @ Microlise </li>
+    <li><b>Qualifications: </b> 👨🏻‍💻 Bsc Software Engineering </li>
     <li><b>Hobbies: </b></li>
     <ul>
         <li>🧗‍♂️  Rock Climbing</li>
